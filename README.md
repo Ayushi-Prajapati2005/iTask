@@ -1,7 +1,7 @@
-# iTask
+## iTask
 
 
-#Installation & Setup
+# Installation & Setup
 
 Follow these steps to run the project locally:
 
@@ -11,10 +11,7 @@ cd iTask
 
 2. Install Dependencies
 npm install
-
-
 or
-
 npm i
 
 3. Run the Development Server
