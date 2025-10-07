@@ -8,7 +8,7 @@ Follow these steps to run the project locally:
 1. Clone the Repository
 git clone https://github.com/Ayushi-Prajapati2005/iTask.git
 
-cd iTask
+2. cd iTask
 
 3. Install Dependencies
    
