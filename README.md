@@ -7,14 +7,17 @@ Follow these steps to run the project locally:
 
 1. Clone the Repository
 git clone https://github.com/Ayushi-Prajapati2005/iTask.git
+
 cd iTask
 
-2. Install Dependencies
+3. Install Dependencies
+   
 npm install
 or
 npm i
 
-3. Run the Development Server
+5. Run the Development Server
+   
 npm run dev
 
 
